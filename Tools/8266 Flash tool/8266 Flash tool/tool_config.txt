@@ -1,0 +1,9 @@
+path_data:
+choosed:F:\iiiiiiiiiiiii\8266 Flash tool\bin\eagle.app.v6.flash.bin;0x00000;
+choosed:F:\iiiiiiiiiiiii\8266 Flash tool\bin\eagle.app.v6.irom0text.bin;0x40000;
+empty:;;
+empty:;;
+empty:;;
+empty:;;
+empty:;;
+default_path:F:\iiiiiiiiiiiii\8266 Flash tool\bin;
